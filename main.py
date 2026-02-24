@@ -13,3 +13,6 @@ print(df.head())
 
 print("\nBasic Statistics:")
 print(df.describe())
+
+print("\nDataset Shape:")
+print(df.shape)
